@@ -1,0 +1,15 @@
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\bin\Debug\net10.0\Playground.exe
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\bin\Debug\net10.0\Playground.deps.json
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\bin\Debug\net10.0\Playground.runtimeconfig.json
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\bin\Debug\net10.0\Playground.dll
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\bin\Debug\net10.0\Playground.pdb
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\Playground.AssemblyInfoInputs.cache
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\Playground.AssemblyInfo.cs
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\Playground.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\Playground.sourcelink.json
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\Playground.dll
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\refint\Playground.dll
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\Playground.pdb
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\Playground.genruntimeconfig.cache
+C:\Users\Joshua\Documents\GitHub\.NET_Tutorial\Playground\obj\Debug\net10.0\ref\Playground.dll
